@@ -1,6 +1,6 @@
 #!/usr/bin/docker
 # based on Ubuntu
-FROM dhost:5000/aumentum/wildfly
+FROM stormsw/wildfly
 MAINTAINER Alexander Varchenko <alexander.varchenko@gmail.com>
 USER jboss
 # Expose the ports we're interested in

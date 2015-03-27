@@ -7,7 +7,7 @@ Based on aumentum-wildfly image
 
 with debug ports exposed
 
-==PORTS==
-8080 - jboss wildfly service
-9990 - management api port
-8787 - debug port (dt_socket)
+## PORTS
+* 8080 - jboss wildfly service
+* 9990 - management api port
+* 8787 - debug port (dt_socket)
